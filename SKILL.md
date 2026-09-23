@@ -1,5 +1,8 @@
 ---
 name: mac-external-display-scaling
+slug: mac-external-display-scaling
+version: 1.0.0
+displayName: macOS 外接显示器缩放
 description: Use when a Mac external display has tiny UI or text and needs per-display HiDPI, scaling, resolution, or refresh-rate tuning without changing the built-in display.
 metadata:
   short-description: Tune per-display Mac HiDPI scaling
