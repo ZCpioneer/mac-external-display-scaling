@@ -1,0 +1,7 @@
+interface:
+  display_name: "macOS 外接显示器缩放"
+  short_description: "Tune external Mac display HiDPI scaling"
+  default_prompt: "Use $mac-external-display-scaling to inspect and tune the selected Mac external display."
+
+policy:
+  allow_implicit_invocation: true
